@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="w-11 mx-auto">
         <h1 class="text-center">Семейная фотосессия</h1>
     </div>
     <div class="photo-container w-11 mx-auto flex justify-content-between flex-wrap align-content-between">

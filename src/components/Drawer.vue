@@ -50,7 +50,7 @@ h4 {
     font-size: 16px;
 }
 p {
-    font-size: 14px;
+    font-size: 16px;
     margin-left: 15px;
 }
 .active {
