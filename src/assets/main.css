@@ -1,0 +1,11 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1e2421;
+    color: #c3c3c3;
+}
+a {
+    text-decoration: none;
+    color: #c3c3c3;
+  }
