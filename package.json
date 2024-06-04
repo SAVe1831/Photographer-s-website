@@ -1,6 +1,7 @@
 {
   "name": "photographer-website",
   "version": "0.0.0",
+  "homepage": "https://save1831.github.io/photographer_website/",
   "private": true,
   "type": "module",
   "scripts": {
