@@ -6,7 +6,7 @@
         <div class="menu flex justify-content-center">
             <ul class="menu-links justify-content-center w-full list-none p-0 hidden md:flex">
                 <li :class="isLinkActive('/')"><router-link to="/">Главная</router-link></li>
-                <li class="dropdown relative" @mouseenter="openDropdown" @mouseleave="closeDropdown">Портфолио <img :src="isDropdown ? '/icons/arrow-down.jpg' : '/icons/arrow-up.jpg'" alt="" class="w-1rem">
+                <li class="dropdown relative" @mouseenter="openDropdown" @mouseleave="closeDropdown">Портфолио <img :src="isDropdown ? 'icons/arrow-down.jpg' : 'icons/arrow-up.jpg'" alt="" class="w-1rem">
                     <ul class="dropdown-menu hidden" @click="closeDropdown" @mouseleave="closeDropdown">
                         <li :class="isLinkActive('/portfolio/pregnant-photosession')"><router-link to="/portfolio/pregnant-photosession">Фотосессия беременных</router-link></li>
                         <li :class="isLinkActive('/portfolio/wedding-photosession')"><router-link to="/portfolio/wedding-photosession">Свадебная фотосессия</router-link></li>
