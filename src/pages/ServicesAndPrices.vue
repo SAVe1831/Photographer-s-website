@@ -4,7 +4,7 @@
             <h1>Стоимость разных видов съёмки</h1>
             <p>Здесь вы можете посмотреть информацию о пакетах предоставляемых услуг и их стоимости</p>
         </div>
-        <div class="author w-11 mx-auto flex flex-column lg:flex-row justify-content-around align-items-center">
+        <div class="author w-11 mx-auto flex flex-column lg:flex-row justify-content-around align-items-center border-round-xl">
             <div class="author-photo w-full flex justify-content-center">
                 <img src="/images/author.jpeg" class="w-full max-w-30rem">
             </div>
